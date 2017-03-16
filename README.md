@@ -17,7 +17,7 @@ Go to the Download Directory and execute the following commands.
   chmod +x install.sh
   ./install.sh
 This will perform an update and install all necessary softwares including apache2 php5 php-pear php5-mysql reaver aircrack-ng if not currently installed.
-Once the installation is complete, open a web browser and enter the following URL http://localhost/shadow/ or http://<yourIP>/shadow/
+Once the installation is complete, open a web browser and enter the following URL http://localhost/shadow/ or http://"your IP"/shadow/
 You will get the console
 
 Note
