@@ -18,8 +18,11 @@ Shadow had been tested so far in Kali Distros only. But any OS with the tools in
 Installation - 
 Clone this repository into your local  (You can also download the application as ZIP and extract it)
 You might need sudo permissions/root user for the installation and execution
+
 cd  /path/of/shadow/
+
 (sudo) chmod +x install.sh
+
 This will perform an update and install/update all the dependencies (apache2 php5 php-pear php5-mysql reaver aircrack-ng)
 That’s pretty much with the  installation. 
 Once the installation is complete, open a web browser and enter the following URL http://localhost/shadow/ or http://"your IP"/shadow/ 
